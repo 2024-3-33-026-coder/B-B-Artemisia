@@ -1,0 +1,6 @@
+{
+  "name": "B&B Artemisia – Luxury Sardinian Boutique Stay in Alghero",
+  "description": "An intimate boutique Bed & Breakfast in Alghero, Sardinia. Three refined rooms, thoughtful hospitality by Lavinia Monica, Mediterranean garden, and slower living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
